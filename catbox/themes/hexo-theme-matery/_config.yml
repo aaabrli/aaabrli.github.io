@@ -70,7 +70,7 @@ cover:
 dream:
   enable: true
   showTitle: true
-  title: 开卷有益
+  title: "“没有爱就看不见”"
   text: 
 
 # Whether to display the musics.
@@ -627,8 +627,8 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 什么是你的义务？
-    - 日常的要求
+    - 语言是可能世界的砖石
+    - 浪漫生长于真相的罅隙
 
 # 手机二级菜单.
 navMenu:
